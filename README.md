@@ -16,3 +16,21 @@
 <div align="center">
   
 <a href="https://www.buymeacoffee.com/mrx7014"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="60%" alt="Buy me a coffee" /></a>
+
+<br>
+
+<div align="center">
+
+**Let's know how to use this**
+</div>
+
+<br>
+
+# Requirements:
+
+- Any linux system or termux.
+
+>
+I recommended to use this free server to test this tool,Check this server form <a href="https://www.github.com/mrx7014/SSH-KaliLinux">SSH Kali Linux</a>
+>
+>
