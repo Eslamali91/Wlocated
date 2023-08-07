@@ -26,9 +26,28 @@
 
 <br>
 
-# ⚙️ Requirements:
+# 🛠 Requirements:
 
 - Any linux system or termux.
 
 > We recommended to use this free server to test this tool,Check this server form <a href="https://www.github.com/mrx7014/SSH-KaliLinux">SSH Kali Linux</a>
 >
+
+<br>
+
+# ⚙️ Installation
+
+- First clone repository
+```sh
+git clone https://www.github.com/mrx7014/Wlocated
+```
+- After clone repo install tool requirements
+
+```sh
+cd Wlocated ; ./install.sh
+```
+
+<div align="center">
+  
+**Now tool is installed,let's do anoter requirements**
+</div>
