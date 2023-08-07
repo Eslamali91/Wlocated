@@ -26,9 +26,9 @@
 
 <br>
 
-# Requirements:
+# ⚙️ Requirements:
 
 - Any linux system or termux.
 
->I recommended to use this free server to test this tool,Check this server form <a href="https://www.github.com/mrx7014/SSH-KaliLinux">SSH Kali Linux</a>
+> We recommended to use this free server to test this tool,Check this server form <a href="https://www.github.com/mrx7014/SSH-KaliLinux">SSH Kali Linux</a>
 >
