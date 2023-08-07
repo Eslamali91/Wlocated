@@ -8,4 +8,11 @@
 # V2.0.0 is out!
 </div>
 <br>
-<div align
+<div align="center">
+  
+**Developed and brought to you by Team Hacker Ship**
+</div>
+
+<div align="center">
+  
+<a href="https://www.buymeacoffee.com/mrx7014"><img src="https://github.com/Mahmud0808/Iconify/blob/beta/.github/resources/bmc-button.png" width="60%" alt="Buy me a coffee" /></a>
