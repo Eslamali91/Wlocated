@@ -1,0 +1,103 @@
+[Mon Aug  7 21:37:59 2023] PHP 8.2.5 Development Server (http://0.0.0.0:8080) started
+[Mon Aug  7 21:38:02 2023] 127.0.0.1:51662 Accepted
+[Mon Aug  7 21:38:02 2023] 127.0.0.1:51662 [200]: GET /index.html
+[Mon Aug  7 21:38:02 2023] 127.0.0.1:51662 Closing
+[Mon Aug  7 21:38:34 2023] 127.0.0.1:52372 Accepted
+[Mon Aug  7 21:38:34 2023] 127.0.0.1:52372 [200]: GET /
+[Mon Aug  7 21:38:34 2023] 127.0.0.1:52372 Closing
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52380 Accepted
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52380 [200]: GET /js/location.js
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52380 Closing
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52392 Accepted
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52392 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52392 Closing
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52408 Accepted
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52408 [404]: GET /favicon.ico - No such file or directory
+[Mon Aug  7 21:38:35 2023] 127.0.0.1:52408 Closing
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35542 Accepted
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35542 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35542 Closing
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35554 Accepted
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35554 [200]: GET /Blog
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35554 Closing
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35570 Accepted
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35570 [200]: GET /js/location.js
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35570 Closing
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35580 Accepted
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35580 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:38 2023] 127.0.0.1:35580 Closing
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35588 Accepted
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35588 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35588 Closing
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35596 Accepted
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35596 [200]: GET /Blog
+[Mon Aug  7 21:38:39 2023] 127.0.0.1:35596 Closing
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35602 Accepted
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35602 [200]: GET /js/location.js
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35602 Closing
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35606 Accepted
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35606 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35606 Closing
+[Mon Aug  7 21:38:40 2023] 127.0.0.1:35618 Accepted
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35618 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35618 Closing
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35622 Accepted
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35622 [200]: GET /Blog
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35622 Closing
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35638 Accepted
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35638 [200]: GET /js/location.js
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35638 Closing
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35648 Accepted
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35648 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:41 2023] 127.0.0.1:35648 Closing
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35658 Accepted
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35658 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35658 Closing
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35668 Accepted
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35668 [200]: GET /Blog
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35668 Closing
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35678 Accepted
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35678 [200]: GET /js/location.js
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35678 Closing
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35688 Accepted
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35688 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:42 2023] 127.0.0.1:35688 Closing
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35696 Accepted
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35696 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35696 Closing
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35702 Accepted
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35702 [200]: GET /Blog
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35702 Closing
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35718 Accepted
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35718 [200]: GET /js/location.js
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35718 Closing
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35722 Accepted
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35722 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35722 Closing
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35726 Accepted
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35726 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:44 2023] 127.0.0.1:35726 Closing
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35730 Accepted
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35730 [200]: GET /Blog
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35730 Closing
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35732 Accepted
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35732 [200]: GET /js/location.js
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35732 Closing
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35734 Accepted
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35734 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:45 2023] 127.0.0.1:35734 Closing
+[Mon Aug  7 21:38:56 2023] 127.0.0.1:33722 Accepted
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:33722 [200]: POST /result_handler.php
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:33722 Closing
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44072 Accepted
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44072 [200]: GET /Blog
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44072 Closing
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44078 Accepted
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44078 [200]: GET /js/location.js
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44078 Closing
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44090 Accepted
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44090 [200]: POST /info_handler.php
+[Mon Aug  7 21:38:57 2023] 127.0.0.1:44090 Closing
+[Mon Aug  7 21:39:44 2023] 127.0.0.1:44972 Accepted
+[Mon Aug  7 21:39:44 2023] 127.0.0.1:44972 [200]: GET /
+[Mon Aug  7 21:39:44 2023] 127.0.0.1:44972 Closing
