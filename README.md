@@ -5,6 +5,7 @@
   
 **An open source prjkt allowed you to locate any person through a link only**
 <br>
+
 # V2.0.0 is out!
 </div>
 <br>
@@ -46,6 +47,7 @@ sudo apt install git ; git clone https://www.github.com/mrx7014/Wlocated
 ```sh
 cd Wlocated ; ./install.sh
 ```
+<br>
 
 <div align="center">
   
