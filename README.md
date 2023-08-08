@@ -152,10 +152,11 @@ python3 wlocated.py
 <div align="center">
 <img src="images/Screenshot_٢٠٢٣٠٨٠٨_٠٣٢٥١٧_Termux.jpg">
 </div>
+<br>
 
 - Use this <a href="https://github.com/mrx7014/hidephish">Repo</a> to mask links.
 <br>
 
 # Contact US:
 
-- Telegram <a href="https://t.me/hackership">HackerShip</a>
+- Telegram: <a href="https://t.me/hackership">HackerShip</a>
