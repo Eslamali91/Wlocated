@@ -56,7 +56,7 @@ cd Wlocated ; ./install.sh
 
 <br>
 
-- Now create an account on <a href="ngrok.com">Ngrok</a>
+- Now create an account on <a href="https://www.ngrok.com">Ngrok</a>
 - After this download ngrok, choose your system architecture `ARM` or `ARM64` or `32-bit` and download it from this commands.
 
 > This commands will download and install ngrok automatically
