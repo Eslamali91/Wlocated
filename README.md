@@ -94,6 +94,7 @@ python3 wlocated.py
 <div align="center">
 <img src="images/Screenshot_٢٠٢٣٠٨٠٨_٠٢٤٠١٥_Termux.jpg">
 </div>
+<br>
 
 - Now choose any templete you want.
 `Near You`
