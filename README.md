@@ -6,7 +6,7 @@
 **An open source prjkt allowed you to locate any person through a link only**
 <br>
 
-# V2.0.0 has been released!
+# V2.0.0 released!
 </div>
 <br>
 <div align="center">
